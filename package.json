@@ -1,0 +1,22 @@
+{
+  "name": "is-js-array",
+  "version": "1.0.0",
+  "description": "A small package for checking parameter is an js array or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshirbadGudu/is-js-array.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Ashirbad Panigrahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshirbadGudu/is-js-array/issues"
+  },
+  "homepage": "https://github.com/AshirbadGudu/is-js-array#readme"
+}
