@@ -1,6 +1,6 @@
 {
   "name": "is-js-array",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A small package for checking parameter is an js array or not",
   "main": "index.js",
   "scripts": {
